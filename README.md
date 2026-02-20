@@ -60,9 +60,8 @@ and platform-independent graphical interface without relying on external GUI fra
 
 ---
 
-![Chess Screenshot 1](https://github.com/HalitKosemen/Chess-Game/blob/e21ebe3a5d63bc8d2b746afef80857249d8662ff/Cheess-Game/chess1.JPG)
-![Chess Screenshot 2](https://github.com/HalitKosemen/Chess-Game/blob/514a7c8f04e580d8e8f71bca14f50b6f3fef4d55/Cheess-Game/chess2.JPG)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=sfdsfsdaf&icon=0&color=0)](https://visitcount.itsvg.in)
+![ds](https://github.com/user-attachments/assets/2a1e0f4b-a15d-49ea-a4b8-e246dab348a7)
+![fds](https://github.com/user-attachments/assets/16b27698-b377-4f5c-a304-9f65d531d710)
+
+
