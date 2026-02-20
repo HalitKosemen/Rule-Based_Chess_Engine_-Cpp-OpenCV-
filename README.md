@@ -61,7 +61,5 @@ and platform-independent graphical interface without relying on external GUI fra
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sfdsfsdaf&icon=0&color=0)](https://visitcount.itsvg.in)
-![ds](https://github.com/user-attachments/assets/2a1e0f4b-a15d-49ea-a4b8-e246dab348a7)
-![fds](https://github.com/user-attachments/assets/16b27698-b377-4f5c-a304-9f65d531d710)
 
 
