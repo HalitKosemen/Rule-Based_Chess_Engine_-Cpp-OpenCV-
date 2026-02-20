@@ -1,0 +1,4 @@
+/home/halit/chess_project/build/CMakeFiles/chess_app.dir
+/home/halit/chess_project/build/CMakeFiles/test_app.dir
+/home/halit/chess_project/build/CMakeFiles/edit_cache.dir
+/home/halit/chess_project/build/CMakeFiles/rebuild_cache.dir
