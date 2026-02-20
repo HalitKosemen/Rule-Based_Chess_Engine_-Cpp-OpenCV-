@@ -50,14 +50,6 @@ and platform-independent graphical interface without relying on external GUI fra
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)![fsdf](https://github.com/user-attachments/assets/96c6db0b-2ca0-4d11-90ee-fe8263a4ae2f)
 
-
----
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sfdsfsdaf&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sfdsfsdaf&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfdsfsdaf&theme=dark&layout=compact)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sfdsfsdaf&icon=0&color=0)](https://visitcount.itsvg.in)
